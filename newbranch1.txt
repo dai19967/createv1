@@ -4,7 +4,16 @@ in
 new file
 this is at newbranch1 branch in create
 1.add new line
+<<<<<<< HEAD
 2.modified
 3.在将此分支合并到主分支后,我们继续我们的新需求工作.
 
 4.在主分支更改文件:
+
+2.modified	2.1 在新分支1里的修改
+3.在将此分支合并到主分支后,我们继续我们的新需求工作.
+
+
+
+4.在新分支1里进行的修改
+>>>>>>> newbranch1
