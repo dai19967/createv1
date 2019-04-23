@@ -6,3 +6,5 @@ this is at newbranch1 branch in create
 1.add new line
 2.modified
 3.在将此分支合并到主分支后,我们继续我们的新需求工作.
+
+4.在主分支更改文件:
